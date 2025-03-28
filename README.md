@@ -148,6 +148,9 @@ This auth flow is:
 
 ---
 
+## **✍️Author**
+[MatthewJacobSD](https://github.com/MatthewJacobSD)
+
 **🔗 Links**
 - [Next.js Docs](https://nextjs.org/docs)
 - [Zod Validation](https://zod.dev/)
